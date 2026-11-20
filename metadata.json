@@ -1,0 +1,6 @@
+{
+  "name": "BillWise AI",
+  "description": "Electricity Bill Understanding NLP Chatbot supporting PDF/image OCR, bill summarization, comparison, and English, Telugu, and Tenglish Q&A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
